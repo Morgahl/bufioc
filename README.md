@@ -1,0 +1,2 @@
+`bufioc` provides a simple convinient wrapping of the standard library `bufio` with the purpose of working with `io.WriteCloser` and `io.ReadCloser`.
+I make no claims to any innovation or ownership. Just wanted to share some helpful code.

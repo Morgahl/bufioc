@@ -1,0 +1,1 @@
+This is a simple subpackage that incorporates simple file I/O with the `bufioc` base package.
